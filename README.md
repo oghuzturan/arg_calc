@@ -1,7 +1,7 @@
 <h1 align="center">
   arg_calc
 </h1>
-<h4 align="center">Latest: v1.2.0hi</h4>
+<h4 align="center">Latest: v1.2.0</h4>
 
 <br/>
 
